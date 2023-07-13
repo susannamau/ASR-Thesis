@@ -1,0 +1,17 @@
+Modello di classificazione migliore tra quelli tunati
+
+Best: 0.584177 using {'batch_size': 64, 'epochs': 50, 'optimizer': 'Adam'}
+
+***RESULTS ON TEST SET***
+accuracy score: 0.5855372665063806
+f1_score: 0.5652764306498544
+
+classification report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.60      0.60      2827
+           1       0.57      0.56      0.57      2580
+
+    accuracy                           0.59      5407
+   macro avg       0.58      0.58      0.58      5407
+weighted avg       0.59      0.59      0.59      5407

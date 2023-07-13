@@ -1,0 +1,32 @@
+FASE 1:
+
+change_file_format.py è lo script che prende i file pkl forniti dal paper e li trasforma e divide in corpus e vettori target
+
+corpus_train.csv è il corpus per il training non ancora preprocessato
+vettori_target.csv contiene una lista per ogni riga, ciascuna lista contiene 0 e 1 per il target delle skills
+
+
+FASE 2:
+
+Si procede con il preprocessing delle stringhe di testo in corpus_train.csv
+1_preprocessing_OK.py è lo script che contiene i passaggi di preprocessing inclusi bigrams, trigrams e 4grams
+corpus_train_finito.csv è il corpus completo preprocessato
+corpus_train_finito_20righe.csv contiene le prime 20 stringhe di testo, per fare delle prove più velocemente
+
+
+FASE 3:
+
+Generazione dei modelli di embedding: 2_generazione_modelli.py contiene il codice da mandare in remoto per generare i modelli
+(alla fine mandati in esecuzione uno alla volta da shell)
+Inoltre è stata clonata la repositori di fastText e creata una cartella output/ in cui saranno messi i modelli
+
+
+FASE 4:
+
+Valutazione dei modelli e calcolo del silhouette score con il codice contenuto in 3_valutazione_modelli.py
+Modello migliore: 300 dimensioni, 20 epoche, learning rate 0.01
+
+
+FASE 5:
+
+Classificazione col modello migliore con il codice di 4_classificazione.py

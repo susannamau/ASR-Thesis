@@ -1,0 +1,946 @@
+,0
+0,Outsourcing model
+1,consult with business clients
+2,load equipment
+3,set up broadcast equipment
+4,manage rented goods returns
+5,program sound cues
+6,ICT market
+7,develop virtual game engine
+8,migrate existing data
+9,analyse a script
+10,ensure compliance with environmental legislation
+11,Oracle Data Integrator
+12,apply change management 
+13,search databases
+14,mark film reels
+15,manage flight data communications programme
+16,report analysis results
+17,use computer-aided engineering systems
+18,broadcast using Internet Protocol
+19,task algorithmisation
+20,Visual Studio .NET
+21,prioritise requests
+22,use interface description language
+23,create software design
+24,GIMP
+25,use different communication channels
+26,investment analysis
+27,ABAP
+28,coach employees
+29,provide documentation
+30,operate a camera
+31,audio editing software
+32,data storage
+33,projectionist
+34,configure ICT system
+35,collaborate with music librarians
+36,project management
+37,conduct content quality assurance
+38,carry out strategic research
+39,Nexpose
+40,use a computer
+41,systems theory
+42,select recording source
+43,define software architecture
+44,maintain relationship with suppliers
+45,usability engineering
+46,ICT network cable limitations
+47,performance rental technician
+48,maintain ICT server
+49,write database documentation
+50,Erlang
+51,troubleshoot website
+52,identify legal requirements
+53,web analytics
+54,electronics principles
+55,perform contract compliance audits
+56,present exhibition
+57,software anomalies
+58,set up cameras
+59,engineering processes
+60,define data quality criteria
+61,Waterfall development
+62,ensure adherence to organisational ICT standards
+63,evaluate cost of software products
+64,assemble performance equipment
+65,optimise choice of ICT solution
+66,software design methodologies
+67,participate in music studio recordings
+68,supply chain management
+69,manage ICT virtualisation machines
+70,ICT problem management techniques
+71,apply statistical analysis techniques
+72,QlikView Expressor
+73,camera operator
+74,assess informational needs
+75,ICT system integration
+76,MySQL
+77,confer on artwork
+78,JavaScript
+79,use markup languages
+80,purchase music
+81,use software libraries
+82,ICT network security risks
+83,consult with sound editor
+84,perform multiple tasks at the same time
+85,online moderation techniques
+86,create content title
+87,track key performance indicators
+88,work with composers
+89,online analytical processing
+90,engineering principles
+91,create prototype of user experience solutions
+92,ICT help platforms
+93,compile content
+94,improve business processes
+95,Vagrant
+96,execute email marketing
+97,use automatic programming
+98,Adobe Photoshop
+99,keywords in digital content
+100,plan teamwork
+101,record music
+102,Prototyping development
+103,operate an audio mixing console
+104,ICT hardware specifications
+105,comply with legal regulations
+106,SketchBook Pro
+107,ICT process quality models
+108,sound editor
+109,set up multimedia equipment
+110,LDAP
+111,develop ICT device driver
+112,tend lathe
+113,conduct ICT code review
+114,develop audit plan
+115,levels of software testing
+116,labour legislation
+117,train employees
+118,edit recorded sound
+119,synchronise sound with images
+120,distributed directory information services
+121,sound artist
+122,hardware components suppliers
+123,Apache Maven
+124,authoring software
+125,mobile marketing
+126,execute integration testing
+127,publishing strategy
+128,develop design ideas cooperatively
+129,develop documentation in accordance with legal requirements
+130,analyse business processes
+131,set up portable field transmission equipment
+132,audio technology
+133,health and safety regulations
+134,document management
+135,mobile device software frameworks
+136,Assembly
+137,Prolog
+138,maintain ICT system
+139,assess supplier risks
+140,maintain sound equipment
+141,promote environmental awareness
+142,operate audio-signal processors
+143,practise camera movements
+144,WhiteHat Sentinel
+145,business processes
+146,test for behavioural patterns
+147,monitor mixing in a live situation
+148,integrate ICT data
+149,Pentaho Data Integration
+150,interpret electronic design specifications
+151,product data management
+152,attend rehearsals
+153,manage ICT data classification
+154,supervise sound production
+155,emergent technologies
+156,tune up wireless audio systems
+157,identify ICT security risks
+158,create data models
+159,analyse ICT technical proposals
+160,adjust video transmissions
+161,maintain information network hardware
+162,adapt to type of media
+163,SaaS
+164,use logic programming
+165,human-computer interaction
+166,ML
+167,study media sources
+168,maintain electronic equipment
+169,apply system organisational policies
+170,install low voltage wiring
+171,APL
+172,use access control software
+173,mobile application developer
+174,ICT architectural frameworks
+175,handle rental overdues
+176,software manager
+177,perform backups
+178,Oracle Warehouse Builder
+179,Oracle Relational Database
+180,ICT network administrator
+181,visual presentation techniques
+182,internal risk management policy
+183,manage environmental impact of operations
+184,ICT usability tester
+185,apply information security policies
+186,finish project within budget
+187,align antennae with receiving dishes
+188,create moving images
+189,build business relationships
+190,manage ICT system deployment
+191,adhere to organisational guidelines
+192,interpret current data
+193,use technical documentation
+194,collect customer feedback on applications
+195,develop educational activities
+196,data models
+197,CSS
+198,monitor developments in technology used for design
+199,types of audiovisual formats
+200,select camera apertures
+201,audio post-production
+202,computer forensics
+203,deal with pressure from unexpected circumstances
+204,apply control process statistical methods
+205,clean equipment
+206,use functional programming
+207,interpret floor plans
+208,conduct literature research
+209,negotiate buying conditions
+210,analyse the artistic concept based on stage actions
+211,LESS
+212,follow directions of the artistic director
+213,Hybrid model
+214,set up sound equipment
+215,field-programmable gate arrays
+216,keep personal administration
+217,update design results during rehearsals
+218,web application security threats
+219,audio mastering
+220,prepare financial auditing reports
+221,work with respect for own safety
+222,run a projection
+223,ICT system tester
+224,JSSS
+225,create website wireframe
+226,utilise machine learning
+227,give live presentation
+228,object-oriented modelling
+229,design user interface
+230,principles of artificial intelligence
+231,support a designer in the developing process
+232,content development processes
+233,blueprints
+234,monitor sociological trends
+235,provide user documentation
+236,use customer relationship management software
+237,provide training on technological business developments
+238,statistical analysis system software
+239,control of expenses
+240,intellectual property law
+241,microwave principles
+242,perform soundchecks
+243,manage ICT data architecture
+244,coach staff for running the performance
+245,Jenkins
+246,convert different audiovisual formats
+247,perform resource planning
+248,perform risk analysis
+249,implement ICT recovery system
+250,handle data samples
+251,mix live images
+252,ensure compliance with legal requirements
+253,analyse network bandwidth requirements
+254,information confidentiality
+255,manage inventory
+256,operate electronic measuring instruments
+257,carry out statistical forecasts
+258,analyse score
+259,gather reference materials for artwork
+260,use session border controller
+261,adapt to changes in technological development plans
+262,ICT performance analysis methods
+263,analyse ICT system
+264,Microsoft Visual C++
+265,carry out tendering
+266,manage ICT change request process
+267,analyse business requirements
+268,compare contractors' bids
+269,KDevelop
+270,support ICT system users
+271,Microsoft Access
+272,perform project management
+273,CA Datacom/DB
+274,de-rig electronic equipment
+275,manage business knowledge
+276,ICT quality policy
+277,signal cues to announcers
+278,manage online content
+279,COBOL
+280,troubleshoot
+281,prevent undesired changes to sound design
+282,software metrics
+283,maintain database security
+284,Nessus
+285,deliver visual presentation of data
+286,technically design a sound system
+287,manage human resources
+288,use CAM software
+289,ICT infrastructure
+290,establish an ICT customer support process
+291,maintain database performance
+292,apply company policies
+293,audio production technician
+294,information categorisation
+295,educate on data confidentiality
+296,maintain plan for continuity of operations
+297,manage personal professional development
+298,software architecture models
+299,set up the controller of a machine
+300,innovation processes
+301,manage budgets
+302,promote yourself
+303,develop automated migration methods
+304,electromagnetism
+305,DB2
+306,manage schedule of tasks
+307,manage electronic logistics for sound equipment
+308,hardware platforms
+309,SAP Data Services
+310,supplier management
+311,make strategic business decisions
+312,manage technical resources stock
+313,set up sound reinforcement system
+314,Perl
+315,translate artistic concepts to technical designs
+316,electrical wiring plans
+317,measure software usability
+318,ICT accessibility tester
+319,establish an ICT security prevention plan
+320,work safely with mobile electrical systems under supervision
+321,perform data mining
+322,pack electronic equipment
+323,perform data cleansing
+324,install monitors for process control
+325,manage ICT project
+326,communicate during show
+327,database
+328,software UI design patterns
+329,repair ICT devices
+330,develop professional network
+331,OpenEdge Database
+332,solve ICT system problems
+333,balance database resources
+334,ICT network simulation
+335,acquire system component
+336,assess sound quality
+337,operate relational database management system
+338,perform quality audits
+339,verify feasibility
+340,communicate analytical insights
+341,manage staff
+342,coordinate activities in audio recording studio
+343,set up audiovisual peripheral equipment
+344,MDX
+345,estimate duration of work
+346,plan digital marketing
+347,control objectives for information and related technology
+348,forecast future ICT network needs
+349,recruit employees
+350,execute feasibility study
+351,ICT security standards
+352,monitor system performance
+353,analyse big data
+354,Puppet
+355,develop ICT workflow
+356,use repair manuals
+357,forecast workload
+358,statistical process control
+359,follow work schedule
+360,Common Lisp
+361,write research proposals
+362,data protection
+363,optics
+364,consult with stakeholders on implementation of a production
+365,manage data
+366,LINQ
+367,operate sound live
+368,conduct scholarly research
+369,enhance website visibility
+370,organisational resilience
+371,ICT environmental policies
+372,Windows Phone
+373,web programming
+374,common aviation safety regulations
+375,implement data quality processes
+376,consultation methods
+377,present detailed design proposals
+378,scientific research methodology
+379,lead technology development of an organisation
+380,organisational structure
+381,data quality assessment
+382,ICT software specifications
+383,product comprehension
+384,organise resources for artistic production
+385,software components suppliers
+386,concepts of telecommunications
+387,advise on environmental remediation
+388,ensure information privacy
+389,internet governance
+390,application usability
+391,personal directing styles
+392,hardware architectures
+393,operate remote broadcast equipment
+394,mix sound in a live situation
+395,SQL Server
+396,manage content development projects
+397,draw up instrument setup
+398,create solutions to problems
+399,align software with system architectures
+400,provide ICT system training
+401,structure soundtrack
+402,network management system tools
+403,analyse the need for technical resources
+404,procurement of ICT network equipment
+405,database development tools
+406,Android
+407,present reports
+408,operate projector
+409,query languages
+410,develop educational resources
+411,set up projection equipment
+412,disseminate internal communications
+413,design graphics
+414,process data
+415,manage changes in ICT system
+416,mobile operating systems
+417,adapt artistic plan to location
+418,provide multimedia content
+419,apply 3D imaging techniques
+420,apply social media marketing
+421,Java
+422,film music techniques
+423,install electronic communication equipment
+424,sound designer
+425,maintain projection equipment
+426,ICT network routing
+427,use ICT ticketing system
+428,utilise computer-aided software engineering tools
+429,ICT recovery techniques
+430,provide guidelines for content development
+431,information extraction
+432,define firewall rules
+433,assess power needs
+434,perform security vulnerability assessments
+435,contract law
+436,have computer literacy
+437,media formats
+438,use CAD software
+439,manage software localisation
+440,use audio reproduction software
+441,keep task records
+442,create data sets
+443,develop contingency plans for emergencies
+444,provide software testing documentation
+445,set quality assurance objectives
+446,provide cost benefit analysis reports
+447,collect ICT data
+448,maintain ICT identity management
+449,musical notation
+450,create business process models
+451,ICT communications protocols
+452,mathematics
+453,perform ICT troubleshooting
+454,use software for data preservation
+455,manage localisation
+456,information architecture
+457,ICT project management
+458,ObjectStore
+459,SAP R3
+460,use scripting programming
+461,implement data warehousing techniques
+462,ICT accessibility standards
+463,ICT project management methodologies
+464,keep up with the latest information systems solutions
+465,translate requirement concepts into content
+466,assemble video tape footage
+467,industrial software
+468,normalise data
+469,audiovisual products
+470,utilise content types
+471,administer ICT system
+472,create flowchart diagram
+473,boom operator
+474,Scratch
+475,trigonometry
+476,system backup best practice
+477,AJAX
+478,develop ICT test suite
+479,run a media server
+480,musical genres
+481,apply reverse engineering
+482,meet deadlines
+483,define ICT network design policies
+484,respond to customers' inquiries
+485,design information system
+486,perform technical sound check
+487,operate private branch exchange
+488,"ensure cooperation among production, costume department and make-up department"
+489,design computer network
+490,interpret technical texts
+491,resource description framework query language
+492,digital marketing techniques
+493,perform software unit testing
+494,work in an aviation team
+495,characteristics of products
+496,information structure
+497,set up a multi-track recording
+498,design ICT hardware placement
+499,Haskell
+500,business strategy concepts
+501,develop information security strategy
+502,develop media strategy
+503,work ergonomically
+504,manage alarm system
+505,identify customer's needs
+506,Internet of Things
+507,Sass
+508,conduct search engine optimisation
+509,Adobe Illustrator
+510,oversee quality control
+511,call quality assurance management
+512,develop technological improvement strategies
+513,identify ICT user needs
+514,test system accessibility for users with special needs
+515,provide ICT support
+516,ensure efficient communication in air traffic services
+517,mix multi-track recordings
+518,plan research process
+519,synthesise research publications
+520,data warehouse
+521,PHP
+522,statistics
+523,store performance equipment
+524,analyse the context of an organisation
+525,ICT system user requirements
+526,VBScript
+527,data mining
+528,business process modelling
+529,analyse supply chain strategies
+530,business intelligence
+531,software components libraries
+532,coordinate purchasing activities
+533,read musical score
+534,manage software releases
+535,document your own practice
+536,digital games tester
+537,track price trends
+538,Scala
+539,electrical engineering
+540,proofread text
+541,perform online data analysis
+542,Filemaker
+543,draft music cue breakdown
+544,apply tools for content development
+545,implement front-end website design
+546,design component interfaces
+547,ensure continuous preparedness for audits
+548,Incremental development
+549,file-based workflow
+550,real-time computing
+551,sound operator
+552,Swift
+553,ensure safety of mobile electrical systems
+554,maintain audiovisual equipment
+555,TypeScript
+556,natural language processing
+557,assist customers
+558,mechanics
+559,coordinate music with scenes
+560,perform market research
+561,Microsoft Visio
+562,ICT integration tester
+563,read standard blueprints
+564,"data extraction, transformation and loading tools"
+565,Open source model
+566,quality assurance methodologies
+567,content marketing strategy
+568,utilise decision support system
+569,verify formal ICT specifications
+570,set up basic recording
+571,research new ideas
+572,use precision tools
+573,execute ICT user research activities
+574,perform video editing
+575,glue film reels
+576,operate audio equipment
+577,interfacing techniques
+578,C#
+579,CoffeeScript
+580,create project specifications
+581,PostgreSQL
+582,adjust ICT system capacity
+583,advise on safety improvements
+584,handle helpdesk problems
+585,draw up artistic production
+586,Cisco
+587,social media marketing techniques
+588,provide technical documentation
+589,plan ICT capacity
+590,plan software testing
+591,create special effects
+592,Agile project management
+593,proxy servers
+594,manage tender processes
+595,analyse supply chain trends
+596,develop software prototype
+597,business ICT systems
+598,load film reels
+599,monitor technology trends
+600,operate video equipment
+601,develop design concept
+602,update budget
+603,report test findings
+604,advise client on technical possibilities
+605,XQuery
+606,perform minor repairs to equipment
+607,prepare purchasing reportings
+608,ASP.NET
+609,maintain electrical equipment
+610,plan art educational activities
+611,manage system testing
+612,manage engineering project
+613,Groovy
+614,maintain internet protocol configuration
+615,manage disaster recovery plans
+616,understand artistic concepts
+617,analyse staff capacity
+618,innovate in ICT
+619,manage project information
+620,ICT networking hardware
+621,system configurator
+622,Ansible
+623,define database physical structure
+624,plan shots
+625,conduct qualitative research
+626,design digital call to action
+627,direct inward dialing
+628,database quality standards
+629,electronic communication
+630,integrated development environment software
+631,product life-cycle
+632,work with motion picture editing team
+633,BlackBerry
+634,use technical drawing software
+635,business requirements techniques
+636,hardware components
+637,plan product management
+638,database management systems
+639,ensure visual quality of the set
+640,ICT capacity planning strategies
+641,advertising techniques
+642,identify ICT system weaknesses
+643,maintain system layout for a production
+644,analyse software specifications
+645,ensure proper document management
+646,use communication equipment
+647,test ICT queries
+648,develop artistic project budgets
+649,manufacturing processes
+650,telecommunication trunking
+651,utilise regular expressions
+652,provide technical training
+653,multimedia systems
+654,apply conflict management
+655,Smalltalk
+656,lead a team
+657,ICT sales methodologies
+658,Spiral development
+659,program a CNC controller
+660,3D lighting
+661,propose ICT solutions to business problems
+662,tools for software configuration management
+663,engineering control theory
+664,use concurrent programming
+665,market analysis
+666,manage database
+667,manage standard enterprise resource planning system
+668,maintain telephony system
+669,unified modelling language
+670,technical drawings
+671,teamwork principles
+672,broadcast equipment
+673,Objective-C
+674,MATLAB
+675,acoustics
+676,systems development life-cycle
+677,repair equipment on site
+678,write work-related reports
+679,lathe machine parts
+680,test for emotional patterns
+681,implement ICT coding conventions
+682,fit up sound on stage
+683,documentation types
+684,develop code exploits
+685,SAS language
+686,DevOps
+687,develop reporting software
+688,guarantee customer satisfaction
+689,utilise methodologies for user centered design
+690,Pascal
+691,legal requirements of ICT products
+692,unload equipment
+693,cloud technologies
+694,cyber attack counter-measures
+695,musical instruments
+696,keep up to date on product knowledge
+697,identify customer requirements
+698,ensure customer focus
+699,use measurement instruments
+700,oversee development of software
+701,define technical requirements
+702,store film reels
+703,check film reels
+704,ICT power consumption
+705,video operator
+706,ICT information and knowledge manager
+707,determine visual concepts
+708,service-oriented modelling
+709,photography
+710,review development process of an organisation
+711,N1QL
+712,C++
+713,calibrate electronic instruments
+714,Iterative development
+715,audit techniques
+716,develop creative ideas
+717,provide customer follow-up services
+718,structure information
+719,systems thinking
+720,art history
+721,use personal protection equipment
+722,edit digital moving images
+723,vocal techniques
+724,interpret artistic intentions
+725,manage system security
+726,conduct quantitative research
+727,maintain relationship with customers
+728,develop automated software tests
+729,implement corporate governance
+730,monitor ICT research
+731,analog electronics theory
+732,principles of animation
+733,audiovisual equipment
+734,manage information sources
+735,analyse the scenography
+736,video technician
+737,apply health and safety standards
+738,draw design sketches
+739,Synfig
+740,tolerate stress
+741,manage data collection systems
+742,insourcing strategy
+743,monitor communication channels' performance
+744,use object-oriented programming
+745,apply technical communication skills
+746,design database scheme
+747,apply procurement
+748,ensure equipment availability
+749,conduct impact evaluation of ICT processes on business
+750,prepare personal work environment
+751,address problems critically
+752,apply organisational techniques
+753,manage ICT legacy implication
+754,World Wide Web Consortium standards
+755,set up equipment in a timely manner
+756,ensure compliance with company regulations
+757,film production process
+758,report on environmental issues
+759,characteristics of services
+760,cinematography
+761,Process-based management
+762,manage closed-circuit television system
+763,confer with event staff
+764,provide ICT consulting advice
+765,use software design patterns
+766,embedded systems
+767,3D texturing
+768,penetration testing tool
+769,distributed computing
+770,attend music recording sessions
+771,attend to ICT systems quality
+772,implement ICT risk management
+773,Ruby
+774,ICT debugging tools
+775,consult with production director
+776,render 3D images
+777,issue purchase orders
+778,SPARQL
+779,perform copywriting
+780,communicate with customers
+781,perform escalation procedure
+782,supervise camera crew
+783,iOS
+784,follow given instructions
+785,prospect new customers
+786,define technology strategy
+787,upgrade firmware
+788,plan a recording
+789,CAD software
+790,perform quality control of design during a run
+791,adapt to artists' creative demands
+792,execute ICT audits
+793,perform scientific research
+794,information security strategy
+795,intervene with actions on stage
+796,develop information standards
+797,transcribe ideas into musical notation
+798,transpose music
+799,interpret technical requirements
+800,ICT security legislation
+801,manage performance light quality
+802,quality and cycle time optimisation
+803,measure customer feedback
+804,manage contracts
+805,manage email hosting service
+806,apply ICT systems theory
+807,operate the sound in the rehearsal studio
+808,recording studio technician
+809,SQL Server Integration Services
+810,manage content metadata
+811,mastering engineer
+812,perform software recovery testing
+813,apply business acumen
+814,solution deployment
+815,build recommender systems
+816,develop programming schedule
+817,manage consumables stock
+818,synchronise with mouth movements
+819,keep up with trends
+820,product usage risks analysis
+821,musical theory
+822,design database backup specifications
+823,signal processing
+824,Agile development
+825,software interaction design
+826,supervise data entry
+827,define organisational standards
+828,plan audiovisual recording
+829,ICT encryption
+830,lighting techniques
+831,maintain responsive design
+832,organisational policies
+833,identify suppliers
+834,conduct research interview
+835,record multi-track sound
+836,install signal repeaters
+837,debug software
+838,create semantic trees
+839,implement ICT network diagnostic tools
+840,mobile device management
+841,perform business analysis
+842,perform forensic preservations of digital devices
+843,3D modelling
+844,gather data for forensic purposes
+845,sales strategies
+846,design process
+847,transfer uncut audiovisual material to computer
+848,maintain broadcast equipment
+849,computer programming
+850,manage standards for data exchange
+851,Informatica PowerCenter
+852,interact with users to gather requirements
+853,outsourcing strategy
+854,contextualise artistic work
+855,embedded systems software developer
+856,develop financial statistics reports
+857,Rapid application development
+858,digital game genres
+859,Python
+860,use content management system software
+861,study website behaviour patterns
+862,work with the lighting crew
+863,adapt existing designs to changed circumstances
+864,engage composers
+865,Salt
+866,execute software tests
+867,assess users' interaction with ICT applications
+868,rewrite musical scores
+869,cognitive psychology
+870,safeguard artistic quality of performance
+871,archive documentation related to the work
+872,manage ICT semantic integration
+873,advise on strengthening security
+874,propose improvements to artistic production
+875,lead disaster recovery exercises
+876,establish data processes
+877,carry out internet research
+878,define integration strategy
+879,create database diagrams
+880,design enterprise architecture
+881,projection equipment
+882,install image equipment
+883,develop data processing applications
+884,graphics editor software
+885,coordinate technological activities
+886,implement strategic planning
+887,cost management
+888,Lean project management
+889,Eclipse
+890,organise compositions
+891,integrate content into output media
+892,IBM InfoSphere DataStage
+893,quality standards
+894,perform product planning
+895,adapt to changing situations
+896,manage IT security compliances
+897,Lisp
+898,IBM Informix
+899,identify market requirements for documentation
+900,style sheet languages
+901,answer incoming calls
+902,participate in artistic mediation activities
+903,design application interfaces
+904,copyright legislation
+905,solder electronics
+906,Teradata Database
+907,assess conservation needs
+908,work with an artistic team
+909,IBM InfoSphere Information Server
+910,execute analytical mathematical calculations
+911,define security policies
+912,provide written content
+913,behavioural science
+914,manage sound quality
+915,manage signoff of an installed system
+916,electricity
+917,manage data for legal matters
+918,assess ICT knowledge
+919,translate requirement concepts into visual design
+920,secure sensitive customer's information
+921,provide power distribution
+922,monitor quality of broadcasts
+923,OpenEdge Advanced Business Language
+924,inform on safety standards
+925,R
+926,cyber security
+927,use experience map
+928,prepare licence agreements
+929,follow safety procedures when working at heights
+930,STAF
+931,Xcode
+932,perform data analysis
+933,ICT system programming
+934,crowdsourcing strategy
+935,apply ICT system usage policies
+936,tools for ICT test automation
+937,decision support systems
+938,use storyboards
+939,compose description for web elements
+940,replicate customer software issues
+941,work with the director of photography
+942,adjust projector
+943,integrate system components
+944,unstructured data

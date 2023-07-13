@@ -1,0 +1,6 @@
+venv/
+data/
+out/
+output/
+Paper/my_exp/fastText
+#questo file contiene le cose da non aggiornare sul server

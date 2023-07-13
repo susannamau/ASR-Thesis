@@ -1,0 +1,3 @@
+[submodule "Paper/m_exp/fastText"]
+	path = Paper/m_exp/fastText
+	url = https://github.com/facebookresearch/fastText
